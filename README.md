@@ -2,6 +2,10 @@
 
 vue-infinite-scroll is an infinite scroll directive for vue.js(Vue2.0)
 
+##demo
+
+[live demo](https://cdn.rawgit.com/bajian/vue-infinite-scroll/master/dist/index1.html)
+
 ## Build Setup
 
 ``` bash
